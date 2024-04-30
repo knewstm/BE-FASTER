@@ -30,16 +30,12 @@
 
 2. **Complete the Setup**:
 
-    - Download Asteroide Here: [Releases](https://github.com/asteroide-development/Asteroide/releases)
-    - Ensure the mod version you download is compatible with your Minecraft and Fabric Loader versions.
-    - Save the mod `.jar` file to your computer.
+    - 
+    - 
+    - 
 
 3. **Done!**:
 
-    - Locate your Minecraft installation folder:
-        - Windows: `%appdata%\.minecraft`
-        - macOS: `~/Library/Application Support/minecraft`
-        - Linux: `~/.minecraft`
-    - Create a new folder named `mods` inside your Minecraft installation folder if it doesn't already exist.
-    - Move the Mod `.jar` file you downloaded earlier into the `mods` folder.
+    - 
+
 
